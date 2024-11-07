@@ -1,0 +1,15 @@
+#menubutton {
+    background-color: whitesmoke;
+    text-align: justify;
+    color: aqua;
+    box-shadow: 2px 2px 10px royalblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px; /* Added some margin for better spacing */
+}
+
+#contain {
+    margin-top: 20px; /* Added margin for spacing */
+    padding: 10px;
+    border: 1px solid gray; /* Optional: border for better visibility */
+}
